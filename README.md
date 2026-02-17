@@ -5,15 +5,18 @@ This project delivers an interactive Tableau dashboard that enables users to com
 * Parameters & Hierarchies – for dynamic region selection and multi-level analysis
 * Calculated Fields – to compute comparative metrics such as sales growth, profit margin, and order volume
 ## Process & Methodology:
-*	Data Preparation: Cleaned and structured sales dataset to include key metrics: sales, profit, and order quantity.
-*	Parameters & Hierarchies: Built dynamic parameters allowing users to select any two regions for comparison.
-*	Created hierarchical views: Region → State → City for multi-level insights.
-*	Calculated Fields: Developed metrics to compare performance between regions:
-- Sales difference & growth percentage
-- Profit comparison & margin analysis
--	Order quantity comparison
-*	Dashboard Design: Designed an interactive dashboard with filters, tooltips, and visual cues for intuitive exploration.
-*	Enabled real-time analysis of regional performance trends.
+1. Data Preparation:
+   * Cleaned and structured sales dataset to include key metrics: sales, profit, and order quantity.
+2. Parameters & Hierarchies:
+   * Built dynamic parameters allowing users to select any two regions for comparison.
+   * Created hierarchical views: Region → State → City for multi-level insights.
+3. Calculated Fields: Developed metrics to compare performance between regions:
+    - Sales difference & growth percentage
+    - Profit comparison & margin analysis
+    -	Order quantity comparison
+4. Dashboard Design:
+   * Designed an interactive dashboard with filters, tooltips, and visual cues for intuitive exploration.
+   *	Enabled real-time analysis of regional performance trends.
 
 | KPI                  | Region A | Region B | Observation                             |
 |----------------------|----------|----------|-----------------------------------------|
