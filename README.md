@@ -15,13 +15,14 @@ o	Order quantity comparison
 •	Dashboard Design: Designed an interactive dashboard with filters, tooltips, and visual cues for intuitive exploration.
 •	Enabled real-time analysis of regional performance trends.
 
-Regional KPI Comparison
-KPI	Region A	Region B	Observation
-Total Sales	$X	$Y	Identifies the higher revenue region
-Total Profit	$X	$Y	Highlights profitability differences
-Profit Margin (%)	X%	Y%	Measures operational efficiency
-Total Orders	X	Y	Compares demand volume
-Average Order Value	$X	$Y	Shows customer purchasing behavior
+| KPI                  | Region A | Region B | Observation                             |
+|----------------------|----------|----------|-----------------------------------------|
+| Total Sales          | $X       | $Y       | Identifies the higher revenue region    |
+| Total Profit         | $X       | $Y       | Highlights profitability differences    |
+| Profit Margin (%)    | X%       | Y%       | Measures operational efficiency         |
+| Total Orders         | X        | Y        | Compares demand volume                  |
+| Average Order Value  | $X       | $Y       | Shows customer purchasing behavior      |
+
 
 Insights & Analysis:
 •	Identified high-performing and underperforming regions in terms of sales and profit.
