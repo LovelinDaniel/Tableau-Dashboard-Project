@@ -1,4 +1,4 @@
-Project Overview: 
+##Project Overview: 
 This project delivers an interactive Tableau dashboard that enables users to compare sales performance across two user-selected regions. By providing real-time insights into sales, profit, and order quantities, the dashboard empowers stakeholders to make data-driven decisions and optimize regional performance.
 Tools & Technology:
 •	Tableau – for visualization and interactive dashboards
